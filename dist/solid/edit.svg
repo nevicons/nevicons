@@ -1,0 +1,5 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 24 24" fill="currentColor" aria-hidden="true">
+  <path d="M0 0h24v24H0z"/>
+  <circle r="3.111" transform="rotate(45 2.782 25.152)"/>
+  <path d="M16.4 3.2l4.4 4.4L9.067 19.333l-4.4-4.4zM3.402 19.992l1.265-5.059 4.4 4.4-5.059 1.265a.5.5 0 01-.606-.606z"/>
+</svg>

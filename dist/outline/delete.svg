@@ -1,21 +1,8 @@
 <svg xmlns="http://www.w3.org/2000/svg" fill="none" viewBox="0 0 24 24" stroke-width="2" stroke="currentColor" aria-hidden="true">
-  <g clip-path="url(#clip0_358_2532)">
-    <path fill="#fff" d="M0 0h24v24H0z"/>
-    <path d="M0 0h24M0 0v24M0 0l24 24m0-24v24m0-24L0 24m24 0H0"/>
-    <circle cx="12" cy="12" r="10" stroke-width=".13"/>
-    <rect width="20" height="16" x="2" y="4" stroke-width=".13" rx="1"/>
-    <rect width="16" height="20" x="4" y="2" stroke-width=".13" rx="1"/>
-    <rect width="18" height="18" x="3" y="3" stroke-width=".13" rx="1"/>
-    <circle cx="12" cy="12" r="4" stroke-width=".13"/>
-    <path stroke-linecap="round" d="M12 9l6 6m-6 0l6-6"/>
-    <mask id="a" fill="#fff">
-      <path fill-rule="evenodd" d="M8.46 5a1 1 0 00-.76.35l-5.142 6a1 1 0 000 1.3l5.143 6a1 1 0 00.759.35H20a2 2 0 002-2V7a2 2 0 00-2-2H8.46z" clip-rule="evenodd"/>
-    </mask>
-    <path fill="#000" d="M2.558 11.35l1.518 1.3-1.518-1.3zm0 1.3l-1.519 1.302 1.519-1.301zm5.143 6l-1.519 1.302 1.519-1.301zm-3.625-6l5.143-6-3.037-2.602-5.143 6 3.037 2.603zm0-1.3a1 1 0 010 1.3L1.04 10.049a3 3 0 000 3.904l3.037-2.603zm5.143 6l-5.143-6-3.037 2.602 5.143 6L9.22 17.35zM20 17H8.46v4H20v-4zm0 0v4a4 4 0 004-4h-4zm0-10v10h4V7h-4zm0 0h4a4 4 0 00-4-4v4zM8.46 7H20V3H8.46v4zM6.182 19.952A3 3 0 008.46 21v-4a1 1 0 01.76.35l-3.038 2.602zM9.22 6.651A1 1 0 018.46 7V3a3 3 0 00-2.277 1.048L9.22 6.65z" mask="url(#a)"/>
-  </g>
-  <defs>
-    <clipPath id="clip0_358_2532">
-      <path fill="#fff" d="M0 0h24v24H0z"/>
-    </clipPath>
-  </defs>
+  <path fill="#fff" d="M0 0h24v24H0z"/>
+  <path stroke-linecap="round" d="M12 9l6 6m-6 0l6-6"/>
+  <mask id="a" fill="#fff">
+    <path fill-rule="evenodd" d="M8.46 5a1 1 0 00-.76.35l-5.142 6a1 1 0 000 1.3l5.143 6a1 1 0 00.759.35H20a2 2 0 002-2V7a2 2 0 00-2-2H8.46z" clip-rule="evenodd"/>
+  </mask>
+  <path fill="#000" d="M2.558 11.35l1.518 1.3-1.518-1.3zm0 1.3l-1.519 1.302 1.519-1.301zm5.143 6l-1.519 1.302 1.519-1.301zm-3.625-6l5.143-6-3.037-2.602-5.143 6 3.037 2.603zm0-1.3a1 1 0 010 1.3L1.04 10.049a3 3 0 000 3.904l3.037-2.603zm5.143 6l-5.143-6-3.037 2.602 5.143 6L9.22 17.35zM20 17H8.46v4H20v-4zm0 0v4a4 4 0 004-4h-4zm0-10v10h4V7h-4zm0 0h4a4 4 0 00-4-4v4zM8.46 7H20V3H8.46v4zM6.182 19.952A3 3 0 008.46 21v-4a1 1 0 01.76.35l-3.038 2.602zM9.22 6.651A1 1 0 018.46 7V3a3 3 0 00-2.277 1.048L9.22 6.65z" mask="url(#a)"/>
 </svg>

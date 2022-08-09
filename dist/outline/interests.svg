@@ -1,23 +1,10 @@
 <svg xmlns="http://www.w3.org/2000/svg" fill="none" viewBox="0 0 24 24" stroke-width="2" stroke="currentColor" aria-hidden="true">
-  <g clip-path="url(#clip0_365_4331)">
-    <path fill="#fff" d="M0 0h24v24H0z"/>
-    <path d="M0 0h24M0 0v24M0 0l24 24m0-24v24m0-24L0 24m24 0H0"/>
-    <circle cx="12" cy="12" r="10" stroke-width=".13"/>
-    <rect width="20" height="16" x="2" y="4" stroke-width=".13" rx="1"/>
-    <rect width="16" height="20" x="4" y="2" stroke-width=".13" rx="1"/>
-    <rect width="18" height="18" x="3" y="3" stroke-width=".13" rx="1"/>
-    <circle cx="12" cy="12" r="4" stroke-width=".13"/>
-    <path stroke-linecap="round" stroke-linejoin="round" d="M20.306 3.696a2.367 2.367 0 00-2.581-.515c-.288.12-.549.294-.769.515l-.456.458-.456-.458a2.365 2.365 0 00-3.35 0 2.38 2.38 0 000 3.36l.456.459 2.642 2.65a1 1 0 001.416 0l2.642-2.65.456-.458a2.375 2.375 0 00.514-2.59 2.375 2.375 0 00-.514-.77z"/>
-    <path d="M3.71 11h5.58a1 1 0 00.872-1.49l-2.79-4.96a1 1 0 00-1.744 0l-2.79 4.96A1 1 0 003.71 11z"/>
-    <circle cx="6.5" cy="17.5" r="3.5" stroke-width="2"/>
-    <mask id="a" fill="#fff">
-      <rect width="9" height="9" x="12" y="13" rx="1"/>
-    </mask>
-    <rect width="9" height="9" x="12" y="13" stroke-width="4" mask="url(#a)" rx="1"/>
-  </g>
-  <defs>
-    <clipPath id="clip0_365_4331">
-      <path fill="#fff" d="M0 0h24v24H0z"/>
-    </clipPath>
-  </defs>
+  <path fill="#fff" d="M0 0h24v24H0z"/>
+  <path stroke-linecap="round" stroke-linejoin="round" d="M20.306 3.696a2.367 2.367 0 00-2.581-.515c-.288.12-.549.294-.769.515l-.456.458-.456-.458a2.365 2.365 0 00-3.35 0 2.38 2.38 0 000 3.36l.456.459 2.642 2.65a1 1 0 001.416 0l2.642-2.65.456-.458a2.375 2.375 0 00.514-2.59 2.375 2.375 0 00-.514-.77z"/>
+  <path d="M3.71 11h5.58a1 1 0 00.872-1.49l-2.79-4.96a1 1 0 00-1.744 0l-2.79 4.96A1 1 0 003.71 11z"/>
+  <circle cx="6.5" cy="17.5" r="3.5" stroke-width="2"/>
+  <mask id="a" fill="#fff">
+    <rect width="9" height="9" x="12" y="13" rx="1"/>
+  </mask>
+  <rect width="9" height="9" x="12" y="13" stroke-width="4" mask="url(#a)" rx="1"/>
 </svg>

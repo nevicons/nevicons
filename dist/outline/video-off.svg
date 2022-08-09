@@ -1,0 +1,16 @@
+<svg xmlns="http://www.w3.org/2000/svg" fill="none" viewBox="0 0 24 24" stroke-width="2" stroke="currentColor" aria-hidden="true">
+  <path fill="#fff" d="M0 0h24v24H0z"/>
+  <path stroke-linecap="round" d="M2.414 3L21 21.586"/>
+  <mask id="a" style="mask-type:alpha" width="20" height="12" x="2" y="6" maskUnits="userSpaceOnUse">
+    <path fill="#000" fill-rule="evenodd" d="M4 8h11v8H4V8zM2 8a2 2 0 012-2h11a2 2 0 012 2v1.75l3.4-2.55A1 1 0 0122 8v8a1 1 0 01-1.6.8L17 14.25V16a2 2 0 01-2 2H4a2 2 0 01-2-2V8zm15.333 4L20 10v4l-2.667-2z" clip-rule="evenodd"/>
+  </mask>
+  <g mask="url(#a)">
+    <path fill="#000" d="M20 21.5L1.5 3H0v18.5h20z"/>
+  </g>
+  <mask id="b" style="mask-type:alpha" width="20" height="12" x="2" y="6" maskUnits="userSpaceOnUse">
+    <path fill="#000" fill-rule="evenodd" d="M4 8h11v8H4V8zM2 8a2 2 0 012-2h11a2 2 0 012 2v1.75l3.4-2.55A1 1 0 0122 8v8a1 1 0 01-1.6.8L17 14.25V16a2 2 0 01-2 2H4a2 2 0 01-2-2V8zm15.333 4L20 10v4l-2.667-2z" clip-rule="evenodd"/>
+  </mask>
+  <g mask="url(#b)">
+    <path fill="#000" d="M8 5l12.188 12.188L23 20V5H8z"/>
+  </g>
+</svg>
