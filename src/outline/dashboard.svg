@@ -1,0 +1,21 @@
+<svg width="24" height="24" viewBox="0 0 24 24" fill="none" xmlns="http://www.w3.org/2000/svg">
+<g clip-path="url(#clip0_365_4071)">
+<rect width="24" height="24" fill="white"/>
+<path d="M0 0H24M0 0V24M0 0L24 24M24 0V24M24 0L0 24M24 24H0" stroke="#C4C4C4" stroke-width="0.13"/>
+<circle cx="12" cy="12" r="10" stroke="#C4C4C4" stroke-width="0.13"/>
+<rect x="2" y="4" width="20" height="16" rx="1" stroke="#C4C4C4" stroke-width="0.13"/>
+<rect x="4" y="2" width="16" height="20" rx="1" stroke="#C4C4C4" stroke-width="0.13"/>
+<rect x="3" y="3" width="18" height="18" rx="1" stroke="#C4C4C4" stroke-width="0.13"/>
+<circle cx="12" cy="12" r="4" stroke="#C4C4C4" stroke-width="0.13"/>
+<path d="M4 3H11V21H4C3.44772 21 3 20.5523 3 20V4C3 3.44772 3.44772 3 4 3Z" stroke="black" stroke-width="2"/>
+<mask id="path-8-inside-1_365_4071" fill="white">
+<path fill-rule="evenodd" clip-rule="evenodd" d="M20 22C21.1046 22 22 21.1046 22 20V15H13V22H20ZM13 14H22L22 4C22 2.89543 21.1046 2 20 2H13V14Z"/>
+</mask>
+<path d="M22 15H24V13H22V15ZM13 15V13H11V15H13ZM13 22H11V24H13V22ZM13 14H11V16H13V14ZM22 14V16H24V14H22ZM22 4L20 4V4L22 4ZM13 2V0H11V2H13ZM20 20V24C22.2091 24 24 22.2091 24 20H20ZM20 15V20H24V15H20ZM22 13H13V17H22V13ZM15 22V15H11V22H15ZM20 20H13V24H20V20ZM13 16H22V12H13V16ZM20 4L20 14H24L24 4L20 4ZM20 4L20 4L24 4C24 1.79086 22.2091 0 20 0V4ZM13 4H20V0H13V4ZM15 14V2H11V14H15Z" fill="black" mask="url(#path-8-inside-1_365_4071)"/>
+</g>
+<defs>
+<clipPath id="clip0_365_4071">
+<rect width="24" height="24" fill="white"/>
+</clipPath>
+</defs>
+</svg>

@@ -1,0 +1,17 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 24 24" fill="currentColor" aria-hidden="true">
+  <g clip-path="url(#clip0_335_318)">
+    <path d="M0 0h24v24H0z"/>
+    <path stroke="#C4C4C4" stroke-width=".13" d="M0 0h24M0 0v24M0 0l24 24m0-24v24m0-24L0 24m24 0H0"/>
+    <circle cx="12" cy="12" r="10" stroke="#C4C4C4" stroke-width=".13"/>
+    <rect width="20" height="16" x="2" y="4" stroke="#C4C4C4" stroke-width=".13" rx="1"/>
+    <rect width="16" height="20" x="4" y="2" stroke="#C4C4C4" stroke-width=".13" rx="1"/>
+    <rect width="18" height="18" x="3" y="3" stroke="#C4C4C4" stroke-width=".13" rx="1"/>
+    <circle cx="12" cy="12" r="4" stroke="#C4C4C4" stroke-width=".13"/>
+    <path fill-rule="evenodd" d="M12.023 19.03H3.49a.504.504 0 01-.427-.77c1.645-2.673 2.666-4.916 2.667-10.244 0-.003.002-.006.005-.006a.005.005 0 00.005-.004C5.922 4.658 8.666 2 12.023 2c3.477 0 6.295 2.85 6.295 6.364 0 .213-.01.424-.03.631-.002.01.006.017.015.017.008 0 .015.007.015.016.002 5.163.964 6.64 2.524 9.034l.133.205a.494.494 0 01-.417.763h-8.535zM9 20a3 3 0 106 0H9z" clip-rule="evenodd"/>
+  </g>
+  <defs>
+    <clipPath id="clip0_335_318">
+      <path d="M0 0h24v24H0z"/>
+    </clipPath>
+  </defs>
+</svg>

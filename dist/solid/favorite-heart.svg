@@ -1,0 +1,17 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 24 24" fill="currentColor" aria-hidden="true">
+  <g clip-path="url(#clip0_365_4272)">
+    <path d="M0 0h24v24H0z"/>
+    <path stroke="#C4C4C4" stroke-width=".13" d="M0 0h24M0 0v24M0 0l24 24m0-24v24m0-24L0 24m24 0H0"/>
+    <circle cx="12" cy="12" r="10" stroke="#C4C4C4" stroke-width=".13"/>
+    <rect width="20" height="16" x="2" y="4" stroke="#C4C4C4" stroke-width=".13" rx="1"/>
+    <rect width="16" height="20" x="4" y="2" stroke="#C4C4C4" stroke-width=".13" rx="1"/>
+    <rect width="18" height="18" x="3" y="3" stroke="#C4C4C4" stroke-width=".13" rx="1"/>
+    <circle cx="12" cy="12" r="4" stroke="#C4C4C4" stroke-width=".13"/>
+    <path d="M20.458 5.591a5.255 5.255 0 00-1.708-1.177 5.122 5.122 0 00-4.028 0 5.255 5.255 0 00-1.708 1.177L12 6.638 10.986 5.59a5.182 5.182 0 00-3.722-1.59 5.183 5.183 0 00-3.722 1.59A5.52 5.52 0 002 9.431a5.52 5.52 0 001.542 3.841l1.014 1.047 6.726 6.94a1 1 0 001.436 0l6.726-6.94 1.014-1.047a5.446 5.446 0 001.141-1.761 5.581 5.581 0 000-4.158 5.445 5.445 0 00-1.141-1.762z"/>
+  </g>
+  <defs>
+    <clipPath id="clip0_365_4272">
+      <path d="M0 0h24v24H0z"/>
+    </clipPath>
+  </defs>
+</svg>
