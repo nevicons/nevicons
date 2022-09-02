@@ -1,0 +1,5 @@
+<svg width="24" height="24" viewBox="0 0 24 24" fill="none" xmlns="http://www.w3.org/2000/svg">
+<path d="M12 9V14" stroke="black" stroke-width="2" stroke-linecap="round"/>
+<circle r="0.5" transform="matrix(1 0 0 -1 12 16.5)" stroke="black"/>
+<path d="M2.37726 18.4961L11.1362 3.48076C11.5221 2.81926 12.4779 2.81926 12.8638 3.48076L21.6227 18.4961C22.0116 19.1628 21.5308 20 20.759 20H3.24104C2.46925 20 1.98837 19.1628 2.37726 18.4961Z" stroke="black" stroke-width="2"/>
+</svg>

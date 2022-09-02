@@ -1,0 +1,22 @@
+{
+  "name": "@nevicons/vue",
+  "license": "MIT",
+  "version": "0.0.3",
+  "description": "",
+  "keywords": [],
+  "homepage": "https://github.com/nevicons/nevicons#readme",
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/nevicons/nevicons.git"
+  },
+  "files": [
+    "outline",
+    "solid"
+  ],
+  "publishConfig": {
+    "access": "public"
+  },
+  "peerDependencies": {
+    "vue": ">= 3"
+  }
+}
