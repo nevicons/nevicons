@@ -2,7 +2,7 @@
 <path d="M9 7H19" stroke="black" stroke-width="2" stroke-linecap="round"/>
 <path d="M9 12H19" stroke="black" stroke-width="2" stroke-linecap="round"/>
 <path d="M9 17H19" stroke="black" stroke-width="2" stroke-linecap="round"/>
-<circle cx="5" cy="7" r="0.5" stroke="black"/>
-<circle cx="5" cy="12" r="0.5" stroke="black"/>
-<circle cx="5" cy="17" r="0.5" stroke="black"/>
+<path d="M5 7.01001L5 7.00001" stroke="black" stroke-width="2" stroke-linecap="round"/>
+<path d="M5 12.01L5 12" stroke="black" stroke-width="2" stroke-linecap="round"/>
+<path d="M5 17.01L5 17" stroke="black" stroke-width="2" stroke-linecap="round"/>
 </svg>
